@@ -47,7 +47,7 @@
 //    }
 //}; // 65ms
 
-/* Thanks to haoel()
+/* Thanks to haoel(https://github.com/haoel/leetcode/blob/master/algorithms/addTwoNumbers/addTwoNumbers.cpp)
  * This solution is easy to think,
  * but there are some point to notice
  */
