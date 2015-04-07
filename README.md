@@ -8,8 +8,8 @@ My solutions of LeetCode practices
 | 2   |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/2.AddTwoNumbers/AddTwoNumbers.cpp)|2015/3/31|Medium|
 | 3   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/3.LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.cpp)|2015/4/1|Medium|
 | 6   |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/6.ZigZagConversion/ZigZagConversion.cpp)|2015/4/3|Easy|
-| 6   |                                        |                       |       |             |
-| 7   |                                        |                       |       |             |
+| 7   |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/7.ReverseInteger/ReverseInteger.cpp)|2015/4/7|Easy|
+| 8   |[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/8.StringtoInteger%28atoi%29/StringtoInteger%28atoi%29.cpp)|2015/4/7|Easy|
 | 8   |                                        |                       |       |             |
 | 9   |                                        |                       |       |             |
 | 10  |                                        |                       |       |             |
