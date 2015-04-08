@@ -10,7 +10,7 @@ My solutions of LeetCode practices
 | 6   |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/6.ZigZagConversion/ZigZagConversion.cpp)|2015/4/3|Easy|
 | 7   |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/7.ReverseInteger/ReverseInteger.cpp)|2015/4/7|Easy|
 | 8   |[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/8.StringtoInteger%28atoi%29/StringtoInteger%28atoi%29.cpp)|2015/4/7|Easy|
-| 8   |                                        |                       |       |             |
+| 9   |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/9.PalindromeNumber/PalindromeNumber.cpp)|2015/4/8|Easy|
 | 9   |                                        |                       |       |             |
 | 10  |                                        |                       |       |             |
 | 11  |                                        |                       |       |             |
