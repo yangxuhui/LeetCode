@@ -1,3 +1,9 @@
+// Source: https://leetcode.com/problems/string-to-integer-atoi/
+// 2015/4/7
+
+// Reference the solution of haeol
+// (https://github.com/haoel/leetcode/blob/master/algorithms/stringToIntegerAtoi/stringToIntegerAtoi.cpp)
+
 class Solution {
 public:
     int atoi(string str) {
@@ -26,4 +32,4 @@ public:
         }
         return neg? -ret : ret;
     }
-};
+}; // 20ms
