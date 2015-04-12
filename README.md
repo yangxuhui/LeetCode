@@ -14,7 +14,7 @@ My solutions of LeetCode practices
 | 11  |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/11.ContainerWithMostWater/ContainerWithMostWater.cpp)|2015/4/9|Medium|
 | 12  |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/12.IntegertoRoman/IntegertoRoman.cpp)|2015/4/10|Medium|
 | 13  |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/13.RomantoInteger/RomantoInteger.cpp)|2015/4/11|Easy|
-| 12  |                                        |                       |       |             |
+| 14  |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/14.LongestCommonPrefix/LongestCommonPrefix.cpp)|2015/4/12|Easy|
 | 13  |                                        |                       |       |             |
 | 14  |                                        |                       |       |             |
 | 15  |                                        |                       |       |             |
