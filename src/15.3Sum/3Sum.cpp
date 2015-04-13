@@ -6,7 +6,6 @@ class Solution {
 public:
     vector<vector<int> > threeSum(vector<int> &num) {
         vector<vector<int> > ret;
-        set<vector<int>> s;
         if (num.size() < 3) return ret;
         sort(num.begin(), num.end());
         int fst = 0;
@@ -21,7 +20,7 @@ public:
                         tmp.push_back(num[fst]);
                         tmp.push_back(num[scd]);
                         tmp.push_back(num[trd]);
-                        s.insert(tmp);
+                        ret.push_back(tmp);
                         break;
                     }
                     do {
@@ -36,8 +35,6 @@ public:
                 ++fst;
             } while (fst != num.size()-2 && num[fst] == num[fst-1]);
         }
-        for (auto elem : s)
-            ret.push_back(elem);
         return ret;
     }
-}; // 124ms
+}; // 90ms
