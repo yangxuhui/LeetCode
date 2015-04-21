@@ -48,3 +48,43 @@ public:
         return ret;
     }
 }; // 26ms
+
+// Reference haoel
+// (https://github.com/haoel/leetcode/blob/master/algorithms/3SumClosest/3SumClosest.cpp)
+class Solution {
+public:
+    int threeSumClosest(vector<int> &num, int target) {
+        int ret = 0;
+        int sz = num.size();
+        if (sz == 3) {
+            for (auto elem : num)
+                ret += elem;
+            return ret;
+        }
+        sort(num.begin(), num.end());
+        int dis = INT_MAX;
+        for (int fst = 0; fst < sz - 2; ++fst) {
+            if (fst > 0 && num[fst] == num[fst-1]) continue;
+            int scd = fst + 1;
+            int trd = sz - 1;
+            while (scd < trd) {
+                int sum = num[fst] + num[scd] + num[trd];
+                if (sum == target) return target;
+                else {
+                    if (abs(sum - target) < dis) {
+                        dis = abs(sum - target);
+                        ret = sum;
+                    }
+                    if (sum < target) {
+                        while (scd < sz && num[scd] == num[scd+1]) ++scd;
+                        ++scd;
+                    } else {
+                        while (trd > 0 && num[trd] == num[trd-1]) --trd;
+                        --trd;
+                    }
+                }
+            }
+        }
+        return ret;
+    }
+}; // 24ms
