@@ -17,6 +17,6 @@ My solutions of LeetCode practices
 | 14  |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/14.LongestCommonPrefix/LongestCommonPrefix.cpp)|2015/4/12|Easy|
 | 15  |[3Sum](https://leetcode.com/problems/3sum/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/15.3Sum/3Sum.cpp)|2015/4/13|Medium|
 | 16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/16.3SumClosest/3SumClosest.cpp)|2015/4/14|Medium|
-| 15  |                                        |                       |       |             |
+| 18  |[4Sum](https://leetcode.com/problems/4sum/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/18.4Sum/4Sum.cpp)|2015/4/21|Medium|
 | 16  |                                        |                       |       |             |
 | 17  |                                        |                       |       |             |
