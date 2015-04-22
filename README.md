@@ -19,4 +19,4 @@ My solutions of LeetCode practices
 | 16  |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/16.3SumClosest/3SumClosest.cpp)|2015/4/14|Medium|
 | 18  |[4Sum](https://leetcode.com/problems/4sum/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/18.4Sum/4Sum.cpp)|2015/4/21|Medium|
 | 19  |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/19.RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.cpp)|2015/4/21|Easy|
-| 17  |                                        |                       |       |             |
+| 20  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/20.ValidParentheses/ValidParentheses.cpp)|2015/4/22|Easy|
