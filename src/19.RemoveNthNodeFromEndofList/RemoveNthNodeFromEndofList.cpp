@@ -40,3 +40,22 @@ public:
         return ret;
     }
 }; // 8ms
+
+// Reference pezy
+// (https://github.com/pezy/LeetCode/tree/master/053.%20Remove%20Nth%20Node%20from%20End%20of%20List)
+// Another Solution that use less space
+class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode **del = &head;
+        ListNode *indicator = head;
+        for (int i = 0; i < n; ++i)
+            indicator = indicator->next;
+        while (indicator != NULL) {
+            del = &((*del)->next);
+            indicator = indicator->next;
+        }
+        *del = (*del)->next;
+        return head;
+    }
+}; // 9ms
