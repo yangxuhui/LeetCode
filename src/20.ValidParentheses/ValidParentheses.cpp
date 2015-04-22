@@ -24,3 +24,20 @@ public:
         else return false;
     }
 }; // 4ms
+
+// Reference pezy
+// (https://github.com/pezy/LeetCode/blob/master/059.%20Valid%20Parentheses/solution.h)
+class Solution {
+public:
+    bool isValid(string s) {
+        // when s.size() is odd, the input string must be invalid 
+        if (s.size() % 2 != 0) return false;
+        stack<char> stk;
+        for (auto c : s) 
+            if (!stk.empty() && ((c == ')' && stk.top() == '(') ||
+                (c == '}' && stk.top() == '{') || (c == ']' && stk.top() == '[')))
+                stk.pop();
+            else stk.push(c);
+        return stk.empty();
+    }
+}; // 2ms
