@@ -38,7 +38,7 @@ void MergeList(LinkList &La, LinkList &Lb, LinkList &Lc) {
 }
 ```   
   
-这段代码有几个地方需要注意：1. 这段代码中三个链表均设有**头结点**（在单链表的第一个结点之前附设的一个辅助结点）。2. 这个算法破坏了La 和 Lb 两个链表，合并后的链表是在 La 和 Lb 的基础上构造的。  
+这段代码有几个地方需要注意：1. 这段代码中三个链表均设有**头结点**（在单链表的第一个结点之前附设的一个辅助结点）。2. 这个算法破坏了La 和 Lb 两个链表，合并后的链表是在 La 和 Lb 的基础上构造的。3. 算法的时间复杂度为**O(La.length + Lb.length)**；空间复杂度为**O(1)**。
 ***
 [pezy](https://github.com/pezy/LeetCode/tree/master/019.%20Merge%20Two%20Sorted%20Lists) 提到可以利用递归完成:
 > ```
