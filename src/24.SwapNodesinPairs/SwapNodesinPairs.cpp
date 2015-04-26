@@ -28,3 +28,19 @@ public:
         return ret;
     }
 }; // 6ms
+
+// Reference pezy
+// (https://github.com/pezy/LeetCode/tree/master/023.%20Swap%20Nodes%20in%20Pairs)
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        ListNode *newHead = new ListNode(-1);
+        newHead->next = head;
+        for (ListNode *p = newHead, *q = head; q && q->next; p = q, q = q->next) {
+            p->next = q->next;
+            q->next = p->next->next;
+            p->next->next = q;
+        }
+        return newHead->next;
+    }
+}; // 4ms
