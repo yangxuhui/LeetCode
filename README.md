@@ -21,3 +21,4 @@ My solutions of LeetCode practices
 | 19  |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/19.RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.cpp)|2015/4/21|Easy|
 | 20  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/20.ValidParentheses/ValidParentheses.cpp)|2015/4/22|Easy|
 | 21  |[Merge Tow Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/21.MergeTwoSortedLists/MergeTwoSortedLists.cpp)|2015/4/24|Easy|
+| 24  |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/24.SwapNodesinPairs/SwapNodesinPairs.cpp)|2015/4/25|Medium|
