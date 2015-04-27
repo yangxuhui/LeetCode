@@ -22,3 +22,4 @@ My solutions of LeetCode practices
 | 20  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/20.ValidParentheses/ValidParentheses.cpp)|2015/4/22|Easy|
 | 21  |[Merge Tow Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/21.MergeTwoSortedLists/MergeTwoSortedLists.cpp)|2015/4/24|Easy|
 | 24  |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/24.SwapNodesinPairs/SwapNodesinPairs.cpp)|2015/4/25|Medium|
+| 26  |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/26.RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.cpp)|2015/4/26|Easy|
