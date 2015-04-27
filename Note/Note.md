@@ -67,7 +67,48 @@ else {
   
 ## 字符串
 ### Search
-#### find(找到字符串s1在字符串s中第一次出现的位置)
+#### find(找到一字符串在另一字符串中第一次出现的位置)
+最简单的方法是利用**string** 的**find()** 方法。**string** 类提供了6种不同的search 函数（参考*《C++ Primer 5th》* 9.5.3 *string Search Operations*）。  
+  
+当然，我们应该尝试自己实现find操作，并与**string** 类的**find** 方法加以比较。  
+***
+以[28 Implement strStr()](https://leetcode.com/problems/implement-strstr/)为例：  
+  
+
+1. 如果追求快速与代码的简练，可以利用**string** 类的**find** 方法：
+> ```
+int strStr(string haystack, string needle) {
+   auto pos = haystack.find(needle);
+   return (pos == string::npos) ? -1 : pos;
+} // 6ms 
+  
+2. 考虑自己实现find 操作  
+> ```
+int strStr(string haystack, string needle) {
+   if (needle.empty()) return 0;
+   if (haystack.size() < needle.size()) return -1;
+   int pos = -1;
+   for (int i = 0; i < (haystack.size()-needle.size()+1);++i) {
+      if (haystack[i] == needle[0]) {
+         int j = 1, tmp_pos = i;
+         for (int ix = i + 1; j != needle.size() && ix != haystack.size(); ++ix,++j)
+            if (haystack[ix] != needle[j]) break;
+         if (j == needle.size()) {
+            pos = tmp_pos;
+            break;
+         }
+      }
+   }
+   return pos;
+} // 8ms  
+  
+这种实现思路很简单，从 haystack 的第一个字符开始与 needle 比较， 每次匹配失败之后，从下一个字符开始继续比较， 如果匹配到 needle ，则返回第一个字符的位置。注意：只需要迭代到**haystack.size() - needle.size()**,因为之后的字符串长度小于 needle 的长度，无需匹配(开始时我没有考虑到这一点，导致算法超时，增加这一条件后代码AC，而且可以看出，性能上并没有比第一种解法差太多)。  
+  
+3. 有时间阅读**string** 类的**find**方法源码学习。可能用到了 [Rabin-Karp](http://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm), [KMP](http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) 或者是 [Boyer–Moore](http://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm) 算法 ？？？  
+***
+细心的朋友可能注意到上面的解法二刚开始都有一个逻辑判断，如果 needle 为空的话返回0，这个条件在题目中并没有体现（抑或我没有看出来？），通过测试**string** 类的**find** 函数，发现确实**在参数为空字符串时**find** 返回0。**  
+
+
 
 
 
