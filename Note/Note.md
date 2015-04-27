@@ -63,7 +63,8 @@ else {
 ### 删除数组元素
 在数组中删除元素的含义是：**将这个元素放到数组的size之外**。例如数组[1, 1, 2]删除第二个元素后，数组为[1, 2, x], x 不确定，但是数组中元素的个数（size）为2，size 之外的东西不用考虑。  
    
-例题包括[27 Remove Element](https://leetcode.com/problems/remove-element/), [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/).  
+例题包括 [27 Remove Element](https://leetcode.com/problems/remove-element/), [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/).  
+开始时我一直考虑删除一个元素后，后面的元素必须向前移动，其实在这几道题的背景下大可不必，每次删除元素都移动后面的元素只会导致超时，这两道题要求O(1) 的空间复杂度，所以要边删除元素，边构造数组，最后返回数组的长度即可，长度之外的东西与改数组无关。
   
 ## 字符串
 ### Search
