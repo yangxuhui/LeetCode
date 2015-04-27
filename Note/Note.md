@@ -55,7 +55,7 @@ else {
    Lb->next = mergeTwoList(Lb->next, La);
    return Lb;
 }  
-```  
+  
   
 例题包括[21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
 
