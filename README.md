@@ -23,3 +23,4 @@ My solutions of LeetCode practices
 | 21  |[Merge Tow Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/21.MergeTwoSortedLists/MergeTwoSortedLists.cpp)|2015/4/24|Easy|
 | 24  |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/24.SwapNodesinPairs/SwapNodesinPairs.cpp)|2015/4/25|Medium|
 | 26  |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/26.RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.cpp)|2015/4/26|Easy|
+| 27  |[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/27.RemoveElement/RemoveElement.cpp)|2015/4/27|Easy|
