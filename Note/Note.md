@@ -78,10 +78,11 @@ else {
 
 1. 如果追求快速与代码的简练，可以利用**string** 类的**find** 方法：
 > ```
-int strStr(string haystack, string needle) {
-   auto pos = haystack.find(needle);
-   return (pos == string::npos) ? -1 : pos;
-} // 6ms 
+   int strStr(string haystack, string needle) {
+      auto pos = haystack.find(needle);
+      return (pos == string::npos) ? -1 : pos;
+   } // 6ms 
+
   
 2. 考虑自己实现find 操作  
 > ``` 
