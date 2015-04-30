@@ -129,8 +129,10 @@ while (low <= high) {
 ```  
   
 折半查找有几个地方需要注意：  
-1. 查找失败的条件是 high < low
-2. 算法的时间复杂度？？？
+
+1. 查找失败的条件是 high < low  
+2. 算法的时间复杂度？？？  
+
 ***
 例题[35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)  
 这道题有一个地方需要注意，题目要求在查找失败时返回插入位置，由于查找失败时 ST[high] < key, ST[low] > key, 因此，**key的插入位置为low**.
