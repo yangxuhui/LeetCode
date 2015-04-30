@@ -26,3 +26,4 @@ My solutions of LeetCode practices
 | 27  |[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/27.RemoveElement/RemoveElement.cpp)|2015/4/27|Easy|
 | 28  |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/28.ImplementstrStr()/ImplementstrStr().cpp)|2015/4/27|Easy|
 | 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/35.SearchInsertPosition/SearchInsertPosition.cpp)|2015/4/29|Medium|
+| 34  |[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/34.SearchforaRange/SearchforaRange.cpp)|2015/4/30|Medium|
