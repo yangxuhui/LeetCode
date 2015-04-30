@@ -13,4 +13,4 @@ while (low < nums.size()-1 && nums[low] != target && nums[low] < nums[low+1]) ++
 if (nums[low] < nums[nums.size()-1]) 
 ```
 *** 
-看了[pezy](https://github.com/pezy/LeetCode/tree/master/058.%20Search%20in%20Rotated%20Sorted%20Array) 大神的分析，发现自己的解法果然是 too young, too simple。虽然在时间上我的解法也达到了C++最快的7ms,但是本着对自己负责的态度，认真看了[pezy](https://github.com/pezy/LeetCode/tree/master/058.%20Search%20in%20Rotated%20Sorted%20Array)的分析(有图有真相!)。如果能考虑完全所有的情况，这道题完全可以直接用二分查找(叫变形是不是更好?)，当然，能在直观上考虑完全所有的情况还是很难的(对我来说...)。
+看了[pezy](https://github.com/pezy/LeetCode/tree/master/058.%20Search%20in%20Rotated%20Sorted%20Array) 大神的分析，发现自己的解法果然是 too young, too simple。虽然在时间上我的解法也达到了C++最快的7ms,但是本着对自己负责的态度，认真看了[pezy](https://github.com/pezy/LeetCode/tree/master/058.%20Search%20in%20Rotated%20Sorted%20Array)的分析([有图有真相!](https://github.com/pezy/LeetCode/tree/master/058.%20Search%20in%20Rotated%20Sorted%20Array))。如果能考虑完全所有的情况，这道题完全可以直接用二分查找(叫变形是不是更好?)，当然，能在直观上考虑完全所有的情况还是很难的(对我来说...)。
