@@ -5,6 +5,8 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
+        // the array has the same elements and equal to target
+        if (nums[0] == nums[nums.size()-1] && nums[0] == target) return {0, nums.size()-1};
         int pos = 0;
         int low = 0, high = nums.size() - 1;
         while (low <= high) {
@@ -25,4 +27,4 @@ public:
             return {beg+1, end-1};
         }
     }
-}; // 15ms
+}; // 14ms
