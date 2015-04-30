@@ -133,11 +133,18 @@ while (low <= high) {
 1. 查找失败的条件是 high < low  
 2. 算法的时间复杂度？？？  
 
-***
+***  
+(完全没看懂LeetCode题目标号的标准，个人推荐这几道题的顺序：35 -> 34 -> 33 ) 
+  
 例题[35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)  
 这道题有一个地方需要注意，题目要求在查找失败时返回插入位置，由于查找失败时 ST[high] < key, ST[low] > key, 因此，**key的插入位置为low**.  
   
-例题[34 Search for a Range](https://leetcode.com/problems/search-for-a-range/)完全是35题的应用。
+***  
+例题[34 Search for a Range](https://leetcode.com/problems/search-for-a-range/)完全是35题的应用。  
+  
+*** 
+例题 [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 算是一道比较复杂的二分查找的题，算是二分查找的变形(上面提到二分查找限于有序序列)。详细的过程分析可以参考[pezy](https://github.com/pezy/LeetCode/tree/master/058.%20Search%20in%20Rotated%20Sorted%20Array).  
+
 
 
 
