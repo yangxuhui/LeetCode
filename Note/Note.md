@@ -112,7 +112,31 @@ else {
   
 
 ***
-细心的朋友可能注意到上面的解法二刚开始都有一个逻辑判断，如果 needle 为空的话返回0，这个条件在题目中并没有体现（抑或我没有看出来？），通过测试**string** 类的**find** 函数，发现确实**在参数为空字符串时 find 返回0。**  
+细心的朋友可能注意到上面的解法二刚开始都有一个逻辑判断，如果 needle 为空的话返回0，这个条件在题目中并没有体现（抑或我没有看出来？），通过测试**string** 类的**find** 函数，发现确实**在参数为空字符串时 find 返回0。**    
+  
+## 查找
+### 折半查找(Binary Search)
+**折半查找**只适用于**有序表**的查找，且限于**顺序存储结构**。
+> 算法代码如下：
+```cpp
+low = 0, high = length - 1; // 下标从0开始
+while (low <= high) {
+   mid = (low + high) / 2;
+   if (ST[mid] == key) return mid;
+   else if (ST[mid] < key) low = mid + 1;
+   else high = mid - 1;
+}
+```  
+  
+折半查找有几个地方需要注意：  
+
+1. 查找失败的条件是 high < low  
+2. 算法的时间复杂度？？？  
+
+***
+例题[35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)  
+这道题有一个地方需要注意，题目要求在查找失败时返回插入位置，由于查找失败时 ST[high] < key, ST[low] > key, 因此，**key的插入位置为low**.
+
 
 
 
