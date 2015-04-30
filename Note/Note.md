@@ -1,4 +1,4 @@
-# Something Learned From LeetCode
+# Note of LeetCode
 ## 链表
 ### 单链表   
 #### 删除链表节点   
@@ -135,7 +135,9 @@ while (low <= high) {
 
 ***
 例题[35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)  
-这道题有一个地方需要注意，题目要求在查找失败时返回插入位置，由于查找失败时 ST[high] < key, ST[low] > key, 因此，**key的插入位置为low**.
+这道题有一个地方需要注意，题目要求在查找失败时返回插入位置，由于查找失败时 ST[high] < key, ST[low] > key, 因此，**key的插入位置为low**.  
+  
+例题[34 Search for a Range](https://leetcode.com/problems/search-for-a-range/)完全是35题的应用。
 
 
 
