@@ -25,3 +25,4 @@ My solutions of LeetCode practices
 | 26  |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/26.RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.cpp)|2015/4/26|Easy|
 | 27  |[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/27.RemoveElement/RemoveElement.cpp)|2015/4/27|Easy|
 | 28  |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/28.ImplementstrStr()/ImplementstrStr().cpp)|2015/4/27|Easy|
+| 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/35.SearchInsertPosition/SearchInsertPosition.cpp)|2015/4/29|Medium|
