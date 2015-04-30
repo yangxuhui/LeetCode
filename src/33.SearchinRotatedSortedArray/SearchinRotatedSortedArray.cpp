@@ -5,13 +5,14 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
+    	// if the array is sorted, binary search
+        if (nums[0] < nums[nums.size()-1]) return binary_search(nums, 0, nums.size() - 1, target);
         int low = 0;
+        // find the rotated piovt
+        // beacuse we exclude the case which the array is sorted, so there must be a rotated piovt
         while (low < nums.size()-1 && nums[low] != target && nums[low] < nums[low+1]) ++low;
-        if (low == nums.size() - 1) {
-            if (nums[low] == target) return low;
-            else return -1;
-        } 
-        else if (nums[low] == target) return low;
+        // find target in the first sorted array
+        if (nums[low] == target) return low;
         else return binary_search(nums,low+1, nums.size()-1, target);
     }
 private:
@@ -24,4 +25,4 @@ private:
         }
         return -1;
     }
-}; // 8ms
+}; // 7ms
