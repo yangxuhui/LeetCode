@@ -28,3 +28,4 @@ My solutions of LeetCode practices
 | 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/35.SearchInsertPosition/SearchInsertPosition.cpp)|2015/4/29|Medium|
 | 34  |[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/34.SearchforaRange/SearchforaRange.cpp)|2015/4/30|Medium|
 | 33  |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/33.SearchinRotatedSortedArray)|2015/4/30|Hard|
+| 29  |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/29.DivideTwoIntegers)|2015/5/2|Medium|
