@@ -56,3 +56,39 @@ private:
         return ret;
     }
 }; // 24ms
+
+// Reference haoel
+// (https://github.com/haoel/leetcode/blob/master/algorithms/divideTwoInt/divideTwoInt.cpp)
+class Solution {
+public:
+    int divide(int dividend, int divisor) {
+        // determine sign
+        bool flag = false; // false means result > 0 and true means result < 0
+        if ((dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0)) flag = true;
+        unsigned dvd = dividend > 0 ? dividend : -dividend;
+        unsigned dvs = divisor > 0 ? divisor : -divisor;
+        
+        unsigned bit_num[32];
+        int i = 0;
+        long long d = dvs;
+        bit_num[i] = d;
+        while (d <= dvd) {
+            bit_num[++i] = d = d << 1;
+        }
+        --i;
+        
+        unsigned result = 0;
+        while (dvd >= dvs) {
+            if (dvd >= bit_num[i]) {
+                dvd -= bit_num[i];
+                result += (1 << i);
+            } else {
+                --i;
+            }
+        }
+        
+        // dividend == INT_MIN && divisor == -1 caused overflow
+        if (result > INT_MAX && !flag) return INT_MAX;
+        return flag ? -(int)result : (int)result;
+    }
+}; // 14ms
