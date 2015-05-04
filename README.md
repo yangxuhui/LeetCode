@@ -30,3 +30,4 @@ My solutions of LeetCode practices
 | 33  |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/33.SearchinRotatedSortedArray)|2015/4/30|Hard|
 | 29  |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/29.DivideTwoIntegers)|2015/5/2|Medium|
 | 38  |[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/38.CountandSay)|2015/5/2|Easy|
+| 41  |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/41.FirstMissingPositive)|2015/5/4|Hard|
