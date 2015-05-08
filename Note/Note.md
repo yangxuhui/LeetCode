@@ -144,8 +144,13 @@ while (low <= high) {
   
 *** 
 例题 [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) 算是一道比较复杂的二分查找的题，算是二分查找的变形(上面提到二分查找限于有序序列)。详细的过程分析可以参考[pezy](https://github.com/pezy/LeetCode/tree/master/058.%20Search%20in%20Rotated%20Sorted%20Array).  
-  
-## << (左移), >> (右移)操作
+   
+## 位操作符(The Bitwise Operators)  
+### << (左移), >> (右移)操作 (Bitwise Shift Operators)
+***
+例题[29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)   
+   
+### &, |, ^ (Bitwise AND, OR, XOR Operators)
 
 
 
