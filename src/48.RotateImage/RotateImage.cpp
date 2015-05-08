@@ -17,3 +17,16 @@ public:
         }
     }
 }; // 6ms
+
+// Reference pezy
+// (https://github.com/pezy/LeetCode/blob/master/035.%20Rotate%20Image/solution.h)
+class Solution {
+public:
+    void rotate(vector<vector<int>>& matrix) {
+        reverse(matrix.begin(), matrix.end());
+        int n = matrix.size();
+        for (int i = 0; i < n; ++i) 
+            for (int j = i; j < n; ++j)
+                swap(matrix[i][j], matrix[j][i]);
+    }
+}; // 6ms
