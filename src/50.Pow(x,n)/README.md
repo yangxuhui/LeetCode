@@ -12,6 +12,7 @@ else return x * pow(x, n - 1); // n is odd
 * 这个算法的时间复杂度为**O(logn)**
 * 注意n为偶数时，需要使用square函数（自定义），或者可以将pow(x, n/2)的值保存下来（设为tmp）并写为tmp * tmp。 注意这个很重要，如果写成pow(x, n/2) * pow(x, n/2),算法的时间复杂度就变成O(n)  
 * 上面的写法要求 n 为正数，因为n为奇数时，返回的是x * pow(x, n-1)，若n为负数，则会导致runtime error  
+   
 ***  
 由于我使用上面算法，对n为负数时，需要额外的处理，即对n取绝对值，求pow(x, abs(n)), 取倒数。  
   
