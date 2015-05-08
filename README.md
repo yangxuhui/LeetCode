@@ -32,3 +32,4 @@ My solutions of LeetCode practices
 | 38  |[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/38.CountandSay)|2015/5/2|Easy|
 | 41  |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/41.FirstMissingPositive)|2015/5/4|Hard|
 | 43  |[Muliply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/43.MultiplyStrings)|2015/5/6|Medium|
+| 48  |[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/48.RotateImage)|2015/5/8|Medium|
