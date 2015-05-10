@@ -35,3 +35,4 @@ My solutions of LeetCode practices
 | 48  |[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/48.RotateImage)|2015/5/8|Medium|
 | 50  |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/50.Pow%28x%2Cn%29)|2015/5/8|Medium|
 | 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/53.MaximumSubarray)|2015/5/9|Medium|
+| 58  |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/58.LengthofLastWord/LengthofLastWord.cpp)|Easy|
