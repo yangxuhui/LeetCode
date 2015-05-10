@@ -18,3 +18,16 @@ public:
         return pos_end - pos_beg + 1;
     }
 }; // 4ms
+
+// Solution 2(same idea but more elegrant)
+class Solution {
+public:
+    int lengthOfLastWord(string s) {
+        int length = 0;
+        for (int i = s.size() - 1, cnt = 0, flag = 1; i >=0; --i) {
+            if (s[i] != ' ') { length = ++cnt; flag = 0; }
+            else if(s[i] == ' ' && !flag) break;
+        }
+        return length;
+    }
+}; // 4ms
