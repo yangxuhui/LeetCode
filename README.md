@@ -38,4 +38,5 @@ My solutions of LeetCode practices
 | 58  |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/58.LengthofLastWord/LengthofLastWord.cpp)|2015/5/10|Easy|
 | 54  |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/54.SpiralMatrix)|2015/5/12|Medium|
 | 55  |[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/55.JumpGame)|2015/5/12|Medium|
-| 56  |[MergeIntervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/56.MergeIntervals)|2015/5/14|Hard|
+| 56  |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/56.MergeIntervals)|2015/5/14|Hard|
+| 57  |[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/57.InsertIntervals)|2015/5/15|Hard|
