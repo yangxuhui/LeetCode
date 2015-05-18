@@ -42,3 +42,4 @@ My solutions of LeetCode practices
 | 57  |[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/57.InsertIntervals)|2015/5/15|Hard|
 | 59  |[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/59.SpiralMatrixII)|2015/5/15|Medium|
 | 66  |[Plus One](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/66.PlusOne/PlusOne.cpp)|2015/5/17|Easy|
+| 67  |[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/67.AddBinary/AddBinary.cpp)|2015/5/17|Easy|
