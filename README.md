@@ -44,3 +44,4 @@ My solutions of LeetCode practices
 | 66  |[Plus One](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/66.PlusOne/PlusOne.cpp)|2015/5/17|Easy|
 | 67  |[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](https://github.com/yangxuhui/LeetCode/blob/master/src/67.AddBinary/AddBinary.cpp)|2015/5/17|Easy|
 | 69  |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/69.Sqrt%28x%29)|2015/5/18|Medium|
+| 70  |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/70.ClimbingStairs)|2015/5/19|Easy|
