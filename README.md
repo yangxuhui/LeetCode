@@ -46,3 +46,4 @@ My solutions of LeetCode practices
 | 69  |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/69.Sqrt%28x%29)|2015/5/18|Medium|
 | 70  |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/70.ClimbingStairs)|2015/5/19|Easy|
 | 73  |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/73.SetMatrixZeroes)|2015/5/20|Medium|
+| 74  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/74.Searcha2DMatrix)|2015/5/20|Medium|
