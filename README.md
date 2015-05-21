@@ -48,3 +48,4 @@ My solutions of LeetCode practices
 | 73  |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/73.SetMatrixZeroes)|2015/5/20|Medium|
 | 74  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/74.Searcha2DMatrix)|2015/5/20|Medium|
 | 75  |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/75.SortColors)|2015/5/21|Medium|
+| 77  |[Combinations](https://leetcode.com/problems/combinations/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/77.Combinations)|2015/5/21|Medium|
