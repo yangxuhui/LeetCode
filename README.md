@@ -49,3 +49,4 @@ My solutions of LeetCode practices
 | 74  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/74.Searcha2DMatrix)|2015/5/20|Medium|
 | 75  |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/75.SortColors)|2015/5/21|Medium|
 | 77  |[Combinations](https://leetcode.com/problems/combinations/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/77.Combinations)|2015/5/21|Medium|
+| 78  |[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/78.Subsets)|2015/5/22|Medium|
