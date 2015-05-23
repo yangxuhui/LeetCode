@@ -51,3 +51,4 @@ My solutions of LeetCode practices
 | 77  |[Combinations](https://leetcode.com/problems/combinations/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/77.Combinations)|2015/5/21|Medium|
 | 78  |[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/78.Subsets)|2015/5/22|Medium|
 | 80  |[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/80.RemoveDuplicatesfromSortedArrayII)|2015/5/22|Medium|
+| 81  |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/81.SearchinRotatedSortedArrayII)|2015/5/23|Medium|
