@@ -54,3 +54,4 @@ My solutions of LeetCode practices
 | 81  |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/81.SearchinRotatedSortedArrayII)|2015/5/23|Medium|
 | 83  |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/83.RemoveDuplicatesfromSortedList)|2015/5/24|Easy|
 | 82  |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/82.RemoveDuplicatesfromSortedListII)|2015/5/25|Medium|
+| 88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/88.MergeSortedArray)|2015/5/26|Easy|
