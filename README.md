@@ -55,3 +55,4 @@ My solutions of LeetCode practices
 | 83  |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/83.RemoveDuplicatesfromSortedList)|2015/5/24|Easy|
 | 82  |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/82.RemoveDuplicatesfromSortedListII)|2015/5/25|Medium|
 | 88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/88.MergeSortedArray)|2015/5/26|Easy|
+| 86  |[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/86.PartitionList)|2015/5/27|Medium|
