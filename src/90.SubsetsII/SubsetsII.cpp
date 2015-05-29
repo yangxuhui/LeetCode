@@ -38,3 +38,17 @@ private:
         return -1;
     }
 }; // 12ms
+
+// Reference pezy
+// https://github.com/pezy/LeetCode/tree/master/071.%20Subsets%20II
+class Solution {
+public:
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        vector<vector<int>> ret{{}};
+        for (size_t i = 0, b = 0, e = 0; i < nums.size(); ++i) 
+            for (b = i && nums[i] == nums[i-1] ? e : 0, e = ret.size(); b < e; ++b) 
+                ret.insert(ret.end(), ret[b])->push_back(nums[i]);
+        return ret;
+    }
+}; // 8ms
