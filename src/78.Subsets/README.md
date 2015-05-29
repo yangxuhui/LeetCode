@@ -57,4 +57,6 @@ for (int i = pos; i < vec_helper.size(); ++i, ++ix)
 ```
 这样就求得了下一个集合。
     
-对于每一个固定大小的集合，重复上面过程求出所有的子集。
+对于每一个固定大小的集合，重复上面过程求出所有的子集。   
+***
+[pezy](https://github.com/pezy/LeetCode/tree/master/063.%20Subsets)给出了一种利用二进制的解法，有兴趣可以[看下](https://github.com/pezy/LeetCode/tree/master/063.%20Subsets)。
