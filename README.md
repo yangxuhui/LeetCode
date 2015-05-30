@@ -58,3 +58,4 @@ My solutions of LeetCode practices
 | 86  |[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/86.PartitionList)|2015/5/27|Medium|
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/100.SameTree)|2015/5/27|Easy|
 | 90  |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/90.SubsetsII)|2015/5/29|Medium|
+| 94  |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/94.BinaryTreeInorderTraversal)|2015/5/30|Medium|
