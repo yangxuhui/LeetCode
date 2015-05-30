@@ -151,6 +151,22 @@ while (low <= high) {
 例题[29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)   
    
 ### &, |, ^ (Bitwise AND, OR, XOR Operators)
+   
+## 树
+### 二叉树
+#### 二叉树的遍历
+* 中序遍历
+```cpp
+// 递归版本
+void InOrderTraverse(BiTree T) {
+   if (T) {
+      InOrderTraverse(T->left);
+      Visit(T->data);
+      InOrderTraverse(T->right);
+   } else return;
+}
+```cpp
+
 
 
 
