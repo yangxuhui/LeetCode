@@ -165,7 +165,8 @@ void InOrderTraverse(BiTree T) {
       InOrderTraverse(T->right);
    } else return;
 }
-```cpp
+```
+例题[94 Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 
 
