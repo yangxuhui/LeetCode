@@ -27,3 +27,8 @@
 |---|-------|
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 | 81 |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|
+***
+# 找规律/需要额外的理论知识
+| # | Title |
+|---|-------|
+| 89 |[Gray Code](https://leetcode.com/problems/gray-code/)|
