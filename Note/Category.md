@@ -9,6 +9,7 @@
 |---|-------|
 | 94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 | 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
+| 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree/)|
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|
 ***
