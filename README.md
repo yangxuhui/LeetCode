@@ -61,3 +61,4 @@ My solutions of LeetCode practices
 | 94  |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/94.BinaryTreeInorderTraversal)|2015/5/30|Medium|
 | 89  |[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/89.GrayCode)|2015/5/31|Medium|
 | 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/102.BinaryTreeLevelOrderTraversal)|2015/5/31|Easy|
+| 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/101.SymmetricTree)|2015/6/1|Easy|
