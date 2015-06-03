@@ -66,3 +66,4 @@ My solutions of LeetCode practices
 | 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/107.BinaryTreeLevelOrderTraversalII)|2015/6/2|Easy|
 | 111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/111.MinimumDepthofBinaryTree)|2015/6/2|Easy|
 | 110 |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/110.BalancedBinaryTree)|2015/6/3|Easy|
+| 112 |[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/112.PathSum)|2015/6/3|Easy|
