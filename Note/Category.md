@@ -40,3 +40,4 @@
 |---|-------|
 | 89 |[Gray Code](https://leetcode.com/problems/gray-code/)|
 | 118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|
+| 119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|
