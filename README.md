@@ -67,3 +67,4 @@ My solutions of LeetCode practices
 | 111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/111.MinimumDepthofBinaryTree)|2015/6/2|Easy|
 | 110 |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/110.BalancedBinaryTree)|2015/6/3|Easy|
 | 112 |[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/112.PathSum)|2015/6/3|Easy|
+| 118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/118.Pascal%27sTriangle)|2015/6/4|Easy|
