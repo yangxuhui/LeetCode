@@ -39,3 +39,4 @@
 | # | Title |
 |---|-------|
 | 89 |[Gray Code](https://leetcode.com/problems/gray-code/)|
+| 118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|
