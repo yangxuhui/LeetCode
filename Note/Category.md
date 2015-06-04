@@ -15,6 +15,7 @@
 | 110 |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree/)|
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|
+| 112 |[Path Sum](https://leetcode.com/problems/path-sum/)|
 ***
 # List(链表)
 | # | Title |
