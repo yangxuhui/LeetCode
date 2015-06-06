@@ -70,3 +70,4 @@ My solutions of LeetCode practices
 | 118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/118.Pascal%27sTriangle)|2015/6/4|Easy|
 | 119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/119.Pascal%27sTriangleII)|2015/6/4|Easy|
 | 116 |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/116.PopulatingNextRightPointersinEachNode)|2015/6/5|Medium|
+| 121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/121.BestTimetoBuyandSellStock)|2015/6/6|Medium|
