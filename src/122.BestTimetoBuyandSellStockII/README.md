@@ -14,4 +14,4 @@ for (int i = 1; i < prices.size(); ++i)
 ```   
    
 ***
-看了一下[pezy](https://github.com/pezy/LeetCode/tree/master/005.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)对这道题的分析，理解更加深刻了，他进过分析将题目意思转化为**找到所有有序子序列，计算各系列首尾差值，返回差值之和**。虽然看似思路不同，但是你会发现解题步骤是一样的。
+看了一下[pezy](https://github.com/pezy/LeetCode/tree/master/005.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)对这道题的分析，理解更加深刻了，他经过分析将题目意思转化为**找到所有有序子序列，计算各系列首尾差值，返回差值之和**。虽然看似思路不同，但是你会发现解题步骤是一样的。不过看一下他的分析会对这道题理解更加深刻。
