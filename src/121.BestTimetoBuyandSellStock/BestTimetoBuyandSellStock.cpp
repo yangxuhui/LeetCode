@@ -23,3 +23,18 @@ private:
         return max;
     }
 }; // 12ms
+
+// Reference pezy
+// https://github.com/pezy/LeetCode/blob/master/039.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.h
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        if (prices.size() == 0) return 0;
+        int ret = 0, low = prices[0];
+        for (auto price : prices) {
+            low = std::min(low, price);
+            ret = std::max(ret, price - low);
+        }
+        return ret;
+    }
+}; // 11ms
