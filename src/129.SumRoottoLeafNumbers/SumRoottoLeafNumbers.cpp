@@ -18,11 +18,8 @@ public:
     }
 private:
     int sumNumbers2(TreeNode* root, int val) {
-        if (!root) return val;
-        else if (!root->left && !root->right) return val*10 + root->val;
-        else if (!root->left || !root->right) 
-            return !root->left ? sumNumbers2(root->right, val * 10 + root->val) :
-                sumNumbers2(root->left, val * 10 + root->val);
+        if (!root) return 0;
+        else if (!root->left && !root->right) return val * 10 + root->val;
         else return sumNumbers2(root->left, val * 10 + root->val) + sumNumbers2(root->right, val * 10 + root->val); 
     }
-}; // 0ms
+}; // 4ms
