@@ -73,3 +73,4 @@ My solutions of LeetCode practices
 | 121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/121.BestTimetoBuyandSellStock)|2015/6/6|Medium|
 | 122 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/122.BestTimetoBuyandSellStockII)|2015/6/6|Medium|
 | 125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/125.ValidPalindrome)|2015/6/7|Easy|
+| 129 |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/129.SumRoottoLeafNumbers)|2015/6/8|Medium|
