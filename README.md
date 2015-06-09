@@ -74,3 +74,4 @@ My solutions of LeetCode practices
 | 122 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/122.BestTimetoBuyandSellStockII)|2015/6/6|Medium|
 | 125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/125.ValidPalindrome)|2015/6/7|Easy|
 | 129 |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/129.SumRoottoLeafNumbers)|2015/6/8|Medium|
+| 105 |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/105.ConstructBinaryTreefromPreorderandInorder)|2015/6/9|Medium|
