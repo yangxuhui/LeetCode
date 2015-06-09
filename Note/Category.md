@@ -17,6 +17,7 @@
 | 101 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|
 | 112 |[Path Sum](https://leetcode.com/problems/path-sum/)|
 | 129 |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|
+| 105 |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
 ***
 # List(链表)
 | # | Title |
