@@ -76,3 +76,4 @@ My solutions of LeetCode practices
 | 129 |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/129.SumRoottoLeafNumbers)|2015/6/8|Medium|
 | 105 |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/105.ConstructBinaryTreefromPreorderandInorder)|2015/6/9|Medium|
 | 49  |[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/49.Anagrams)|2015/6/9|Medium|
+| 106 |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/106.ConstructBinaryTreefromInorderandPostorderTraversal)|2015/6/10|Medium|
