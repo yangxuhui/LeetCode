@@ -21,12 +21,9 @@ public:
         int indicator = 1;
         while (!d.empty()) {
             vector<int> tmp;
-            if (indicator & 0x1)
-                for (auto it = d.begin(); it != d.end(); ++it)
-                    tmp.push_back((*it)->val);
-            else 
-                for (auto it = d.rbegin(); it != d.rend(); ++it)
-                    tmp.push_back((*it)->val);
+            for (auto it = d.begin(); it != d.end(); ++it)
+                tmp.push_back((*it)->val);
+            if (!(indicator & 0x1)) reverse(tmp.begin(), tmp.end());
             ret.push_back(tmp);
             ++indicator;
             for (int i = d.size(); i > 0; --i) {
@@ -38,4 +35,4 @@ public:
         }
         return ret;
     }
-}; // 4ms
+};// 4ms
