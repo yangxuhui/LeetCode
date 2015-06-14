@@ -8,6 +8,7 @@
 | # | Title |
 |---|-------|
 | 94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+| 144 |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|
 | 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
 | 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|
 | 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|

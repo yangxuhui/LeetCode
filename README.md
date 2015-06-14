@@ -81,3 +81,4 @@ My solutions of LeetCode practices
 | 114 |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/114.FlattenBinaryTreetoLinkedList)|2015/6/12|Medium|
 | 92  |[Reverse Linked ListII](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/92.ReverseLinkedListII)|2015/6/13|Medium|
 | 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/226.InvertBinaryTree)|2015/6/13|Easy|
+| 144 |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/144.BinaryTreePreorderTraversal)|2015/6/14|Medium|
