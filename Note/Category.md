@@ -9,6 +9,7 @@
 |---|-------|
 | 94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 | 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
+| 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|
 | 107 |[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|
 | 103 |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
 | 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
@@ -28,6 +29,7 @@
 | 83 |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|
 | 82 |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|
 | 86 |[Partition List](https://leetcode.com/problems/partition-list/)|
+| 92  |[Reverse Linked ListII](https://leetcode.com/problems/reverse-linked-list-ii/)|
 ***
 # Array(数组)
 | # | Title |
