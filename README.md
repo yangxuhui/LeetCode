@@ -88,3 +88,4 @@ My solutions of LeetCode practices
 | 154 |[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/154.FindMinimuminRotatedSortedArrayII)|2015/6/18|Hard|
 | 155 |[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/155.MinStack)|2015/6/19|Easy|
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/160.IntersectionofTwoLinkedLists)|2015/6/20|Easy|
+| 162 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/162.FindPeakElement)|2015/6/21|Medium|
