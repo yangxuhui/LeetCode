@@ -47,13 +47,11 @@ private:
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        if (nums.size() == 0) return 0;
-        int max_sum = nums[0];
-        for (int i = 1, sum_contain_i = nums[0]; i != nums.size(); ++i) {
-            sum_contain_i = sum_contain_i > 0 ? sum_contain_i + nums[i] : nums[i];
-            if (sum_contain_i > max_sum)
-                max_sum = sum_contain_i;
+        int maxSofar = INT_MIN;
+        for (int i = 0, maxEndinghere = 0; i < nums.size(); ++i) {
+            maxEndinghere = std::max(maxEndinghere + nums[i], nums[i]);
+            maxSofar = std::max(maxSofar, maxEndinghere);
         }
-        return max_sum;
+        return maxSofar;
     }
-}; // 14ms
+}; // 8ms
