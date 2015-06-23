@@ -90,3 +90,4 @@ My solutions of LeetCode practices
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/160.IntersectionofTwoLinkedLists)|2015/6/20|Easy|
 | 162 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/162.FindPeakElement)|2015/6/21|Medium|
 | 165 |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/165.CompareVersionNumbers)|2015/6/22|Easy|
+| 169 |[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/169.MajorityElement)|2015/6/23|Easy|
