@@ -95,3 +95,4 @@ My solutions of LeetCode practices
 | 168 |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/168.ExcelSheetColumnTitle)|2015/6/25|Easy|
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/190.ReverseBits)|2015/6/26|Easy|
 | 189 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/189.RotateArray)|2015/6/28|Easy|
+| 202 |[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/202.HappyNumber)|2015/6/28|Easy|
