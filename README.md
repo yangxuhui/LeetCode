@@ -94,3 +94,4 @@ My solutions of LeetCode practices
 | 171 |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/171.ExcelSheetColumnNumber)|2015/6/24|Easy|
 | 168 |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/168.ExcelSheetColumnTitle)|2015/6/25|Easy|
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/190.ReverseBits)|2015/6/26|Easy|
+| 189 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/189.RotateArray)|2015/6/28|Easy|
