@@ -96,3 +96,4 @@ My solutions of LeetCode practices
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/190.ReverseBits)|2015/6/26|Easy|
 | 189 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/189.RotateArray)|2015/6/28|Easy|
 | 202 |[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/202.HappyNumber)|2015/6/28|Easy|
+| 61  |[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/61.RotateList)|2015/6/29|Medium|
