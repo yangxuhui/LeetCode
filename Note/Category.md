@@ -47,6 +47,7 @@
 |---|-------|
 | 125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|
 | 165 |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|
+| 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|
 ***
 # Search(查找)
 | # | Title |
