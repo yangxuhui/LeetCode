@@ -101,3 +101,4 @@ My solutions of LeetCode practices
 | 203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/203.RemoveLinkedListElements)|2015/6/30|Easy|
 | 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/199.BinaryTreeRightSideView)|2015/7/1|Medium|
 | 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/205.IsomorphicStrings)|2015/7/1|Easy|
+| 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/217.ContainsDuplicate)|2015/7/2|
