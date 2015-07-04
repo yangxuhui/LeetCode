@@ -103,3 +103,5 @@ My solutions of LeetCode practices
 | 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/205.IsomorphicStrings)|2015/7/1|Easy|
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/217.ContainsDuplicate)|2015/7/2|Easy|
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/204.CountPrimes)|2015/7/2|Easy|
+| 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/219.ContainsDuplicateII)|2015/7/3|Easy|
+| 172 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/172.FactorialTrailingZeroes)|2015/7/4|Easy|
