@@ -63,3 +63,4 @@
 | 119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|
 | 172 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|
+| 36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|

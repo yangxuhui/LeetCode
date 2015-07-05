@@ -1,4 +1,4 @@
-// Source: 
+// Source: https://leetcode.com/problems/valid-sudoku/
 // 2015/7/5
 
 // Reference https://leetcode.com/discuss/23901/my-short-solution-by-c-o-n2

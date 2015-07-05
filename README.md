@@ -105,3 +105,4 @@ My solutions of LeetCode practices
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/204.CountPrimes)|2015/7/2|Easy|
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/219.ContainsDuplicateII)|2015/7/3|Easy|
 | 172 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/172.FactorialTrailingZeroes)|2015/7/4|Easy|
+| 36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/36.ValidSudoku)|2015/7/5|Easy|
