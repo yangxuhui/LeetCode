@@ -106,3 +106,4 @@ My solutions of LeetCode practices
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/219.ContainsDuplicateII)|2015/7/3|Easy|
 | 172 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/172.FactorialTrailingZeroes)|2015/7/4|Easy|
 | 36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/36.ValidSudoku)|2015/7/5|Easy|
+| 198 |[House Robber](https://leetcode.com/problems/house-robber/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/198.HouseRobber)|2015/7/5|Easy|

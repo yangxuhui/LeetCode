@@ -55,6 +55,12 @@
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 | 81 |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|
 ***
+# 动态规划
+| # | Title |
+|---|-------|
+| 198 |[House Robber](https://leetcode.com/problems/house-robber/)|
+|
+***
 # 找规律/需要额外的理论知识
 | # | Title |
 |---|-------|
