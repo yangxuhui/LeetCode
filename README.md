@@ -109,4 +109,5 @@ My solutions of LeetCode practices
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/198.HouseRobber)|2015/7/5|Easy|
 | 223 |[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/223.RectangleArea)|2015/7/6|Easy|
 | 17  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/17.LetterCombinationsofaPhoneNumber)|2015/7/6|Medium|
-| 22  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/22.GenerateParentheses)|2015/7/6|
+| 22  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/22.GenerateParentheses)|2015/7/6|Easy|
+| 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/31.NextPermutation)|2015/7/7|Medium|
