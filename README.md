@@ -112,4 +112,4 @@ My solutions of LeetCode practices
 | 22  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/22.GenerateParentheses)|2015/7/6|Easy|
 | 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/31.NextPermutation)|2015/7/7|Medium|
 | 39  |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/39.CombinationSum)|2015/7/8|Medium|
-| 40  |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/39.CombinationSumII)|2015/7/8|Medium|
+| 40  |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/40.CombinationSumII)|2015/7/8|Medium|
