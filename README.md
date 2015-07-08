@@ -113,3 +113,4 @@ My solutions of LeetCode practices
 | 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/31.NextPermutation)|2015/7/7|Medium|
 | 39  |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/39.CombinationSum)|2015/7/8|Medium|
 | 40  |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/40.CombinationSumII)|2015/7/8|Medium|
+| 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/216.CombinationSumIII)|2015/7/8|Medium|
