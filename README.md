@@ -111,3 +111,4 @@ My solutions of LeetCode practices
 | 17  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/17.LetterCombinationsofaPhoneNumber)|2015/7/6|Medium|
 | 22  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/22.GenerateParentheses)|2015/7/6|Easy|
 | 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/31.NextPermutation)|2015/7/7|Medium|
+| 39  |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/39.CombinationSum)|2015/7/8|Medium|
