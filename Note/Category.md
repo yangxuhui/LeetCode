@@ -61,6 +61,14 @@
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)|
 |
 ***
+# 排列组合
+| # | Title |
+|---|-------|
+| 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/)|
+| 46  |[Permutations](https://leetcode.com/problems/permutations/)|
+| 62  |[Unique Paths](https://leetcode.com/problems/unique-paths/)|
+| 60  |[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|
+***
 # 找规律/需要额外的理论知识
 | # | Title |
 |---|-------|
@@ -71,3 +79,4 @@
 | 172 |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|
 | 36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
 | 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/)|
+| 60  |[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|
