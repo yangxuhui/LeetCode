@@ -118,3 +118,4 @@ My solutions of LeetCode practices
 | 62  |[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/62.UniquePaths)|2015/7/11|Medium|
 | 60  |[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/60.PermutationSequence)|2015/7/11|Medium|
 | 63  |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/63.UniquePathsII)|2015/7/11|Medium|
+| 64  |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/64.MinimumPathSum)|2015/7/12|Medium|
