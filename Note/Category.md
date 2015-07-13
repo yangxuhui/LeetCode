@@ -82,3 +82,4 @@
 | 36  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|
 | 31  |[Next Permutation](https://leetcode.com/problems/next-permutation/)|
 | 60  |[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|
+| 71  |[Simplify Path](https://leetcode.com/problems/simplify-path/)|
