@@ -62,6 +62,7 @@
 | 62  |[Unique Paths](https://leetcode.com/problems/unique-paths/)|
 | 63  |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|
 | 64  |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|
+| 96  |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|
 ***
 # 排列组合
 | # | Title |
