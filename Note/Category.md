@@ -39,6 +39,8 @@
 | 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|
 | 92  |[Reverse Linked ListII](https://leetcode.com/problems/reverse-linked-list-ii/)|
 | 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|
+| 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|
+| 142 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|
 ***
 # Array(数组)
 | # | Title |
