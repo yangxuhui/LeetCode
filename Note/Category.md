@@ -75,6 +75,11 @@
 | 62  |[Unique Paths](https://leetcode.com/problems/unique-paths/)|
 | 60  |[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|
 ***
+# 位运算
+| # | Title |
+|---|-------|
+| 137 |[Single Number II](https://leetcode.com/problems/single-number-ii/)|
+***
 # 找规律/需要额外的理论知识
 | # | Title |
 |---|-------|

@@ -125,3 +125,5 @@ My solutions of LeetCode practices
 | 108 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/108.ConvertSortedArraytoBinarySearchTree)|2015/7/15|Medium|
 | 109 |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/109.ConvertSortedListtoBinarySearchTree)|2015/7/15|Medium|
 | 113 |[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/113.PathSumII)|2015/7/15|Medium|
+| 120 |[Triangle](https://leetcode.com/problems/triangle/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/120.Triangle)|2015/7/16|Medium|
+| 137 |[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/137.SingleNumberII)|2015/7/16|Medium|
