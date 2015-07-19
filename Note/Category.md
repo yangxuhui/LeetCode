@@ -29,6 +29,7 @@
 | 108 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
 | 109 |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|
 | 173 |[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|
+| 98  |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|
 ***
 # List(链表)
 | # | Title |
