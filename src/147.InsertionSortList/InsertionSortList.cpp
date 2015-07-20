@@ -39,3 +39,21 @@ private:
         return p;
     }
 }; // 156ms
+
+// My Solution2
+class Solution {
+public:
+    ListNode* insertionSortList(ListNode* head) {
+        ListNode *fakeHead = new ListNode(0);
+        while (head) {
+            ListNode *temp = head;
+            head = head->next;
+            ListNode *ptr;
+            for (ptr = fakeHead; ptr->next && ptr->next->val < temp->val; ptr = ptr->next)
+                ;
+            temp->next = ptr->next;
+            ptr->next = temp;
+        }
+        return fakeHead->next;
+    }
+}; // 80ms
