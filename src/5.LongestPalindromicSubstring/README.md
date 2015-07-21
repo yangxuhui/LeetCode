@@ -1,0 +1,1 @@
+参考[Longest Palindromic Substring Part I](http://articles.leetcode.com/2011/11/longest-palindromic-substring-part-i.html)和[Longest Palindromic Substring Part II](http://articles.leetcode.com/2011/11/longest-palindromic-substring-part-ii.html).
