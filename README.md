@@ -136,3 +136,4 @@ My solutions of LeetCode practices
 | 98  |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/98.ValidateBinarySearchTree)|2015/7/19|Medium|
 | 201 |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/201.BitwiseANDofNumbersRange)|2015/7/20|Medium|
 |  5  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/5.LongestPalindromicSubstring)|2015/7/21|Medium|
+| 79  |[Word Search](https://leetcode.com/problems/word-search/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/79.WordSearch)|2015/7/22|Medium|
