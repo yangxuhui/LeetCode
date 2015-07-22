@@ -16,7 +16,7 @@ public:
 private:
     int m, n;
     bool rsearch(vector<vector<char>>& board, const string& word, int ix, int x, int y) {
-        if (x<0 || y<0 || x>=m || y>=n || board[x][y] != word[ix]) return false;
+        if (x<0 || y<0 || x>=m || y>=n || || board[x][y] == '\0' || board[x][y] != word[ix]) return false;
         ++ix;
         if (ix == word.size()) return true;
         char t = board[x][y];
