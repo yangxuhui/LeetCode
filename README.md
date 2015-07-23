@@ -137,3 +137,4 @@ My solutions of LeetCode practices
 | 201 |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/201.BitwiseANDofNumbersRange)|2015/7/20|Medium|
 |  5  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/5.LongestPalindromicSubstring)|2015/7/21|Medium|
 | 79  |[Word Search](https://leetcode.com/problems/word-search/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/79.WordSearch)|2015/7/22|Medium|
+| 93  |[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[C++](https://github.com/yangxuhui/LeetCode/tree/master/src/93.RestoreIPAddresses)|2015/7/23|Medium|
